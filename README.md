@@ -8,9 +8,9 @@ Staffs can register, login, create test and set question paper
 
 Students can register, login and attend test.
 
-## MYSQL instructions
+## Instructions
 
-*create separate database for this project (database_name)
+- create separate database for this project (database_name)
 
 ## Tech-Stack
 
