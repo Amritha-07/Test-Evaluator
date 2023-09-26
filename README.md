@@ -16,9 +16,8 @@ This project is a web-based application that allows staffs and students to creat
 
 - Staffs can register, login, create tests and set question papers.
 - Students can register, login and attend tests.
-- The application supports multiple choice, true/false, and short answer questions.
 - The application automatically grades the tests and provides feedback to the students.
-- The application stores the test results and the student records in the database.
+- The application stores the test results, the student records and the teacher records in the database.
 
 ## Installation and Usage
 
@@ -28,6 +27,10 @@ To install and run this project, you need to have the following requirements:
 - A MySQL database server
 - A Wamp server
 - A web browser (such as Chrome or Firefox)
+
+To download the code files for this project, you can clone this GitHub repository using the following command:
+
+```git clone https://github.com/Amritha-07/Test-Evaluator.git```
 
 ## References
 This project was inspired by and based on the following sources:
