@@ -35,4 +35,4 @@ This project was inspired by and based on the following sources:
 - [PHP Tutorial](https://www.w3schools.com/php/) by W3Schools
 - [HTML Tutorial](https://www.w3schools.com/html/) by W3Schools
 - [CSS Tutorial](https://www.w3schools.com/css/) by W3Schools
-- [MySQL Tutorial](https://www.w3schools.com/MySQL/default.asp)https://www.w3schools.com/MySQL/default.asp by W3Schools
+- [MySQL Tutorial](https://www.w3schools.com/MySQL/default.asp) by W3Schools
