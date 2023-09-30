@@ -4,6 +4,9 @@ A DBMS with Front-End Integration
 
 This project is a web-based application that allows staffs and students to create and take tests online. It uses PHP for back-end integration, HTML and CSS for front-end design, and MySQL for database management. The project aims to provide a convenient and efficient platform for testing and evaluation.
 
+![image](https://github.com/Amritha-07/Test-Evaluator/assets/74042644/443e7629-61ac-46f0-9fc9-97b75c7497c5)
+
+
 ## Tech-Stack
 
 - PHP (Back-end Integration)
