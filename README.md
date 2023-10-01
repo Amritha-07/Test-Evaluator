@@ -35,11 +35,3 @@ To download the code files for this project, you can clone this GitHub repositor
 
 ```git clone https://github.com/Amritha-07/Test-Evaluator.git```
 
-## References
-
-This project was inspired by and based on the following sources:
-
-- [PHP Tutorial](https://www.w3schools.com/php/) from W3Schools
-- [HTML Tutorial](https://www.w3schools.com/html/) from W3Schools
-- [CSS Tutorial](https://www.w3schools.com/css/) from W3Schools
-- [MySQL Tutorial](https://www.w3schools.com/MySQL/default.asp) from W3Schools
